@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 ## Contact me!
 
 ![https://instagram.com/sahalubdllh27_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+![Sahal GitHub stats](https://github-readme-stats.vercel.app/api?username=sahal-ubdllh&show_icons=true&theme=dark)
